@@ -1,6 +1,6 @@
 # Python CLI Pattern Maker
 
-Hello, this is my first project that I've published to github. This project is merely a simple Python project for learning purposes. This is a Python CLI Pattern Maker. In this very simple app you'll be prompted with several interfaces that ask you for which pattern you're going to make, the size, and any other data related to the pattern.
+Hello, this is my first project that I've published to github. This project is merely a simple Python project for learning purposes. This is a Python CLI Pattern Maker. In this very simple app you'll be prompted with several interfaces that will ask you for which pattern you're going to make, the size, and any other data related to the pattern.
 
 ## Table Of Contents
 
@@ -47,8 +47,8 @@ Then you'll be prompted for the type of triangle you're going to make.
 To create an equilateral triangle, type one of this option in the triangle type selection menu:
 
 -   `equilateral`
--   `equi`,
--   `equal`,
+-   `equi`
+-   `equal`
 -   `eq`
 -   `e`
 
